@@ -1,7 +1,5 @@
 # CI & CD Integration with GitHub Actions
 
-# README.md
-
 ## Project Overview
 
 Using GitHub Actions, this repository demonstrates the application of Continuous Integration (CI) and Continuous Deployment (CD).
