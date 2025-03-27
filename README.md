@@ -5,7 +5,7 @@ Using GitHub Actions, this repository demonstrates the application of Continuous
 Key features include:
 - Automatic code linting using Super-Linter.
 - A peer-review process for development work.
-- A branching strategy that separates stable code from ongoing development (main for production, dev for development).
+- A branching strategy that separates stable code from ongoing development (`main` for production, `dev` for development).
 
 ## Workflow Process
 1. **Super-Linter Integration**: Every commit or merge triggers the Super-Linter, automatically checking for code quality issues.
